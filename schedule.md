@@ -13,7 +13,7 @@ We will introduce ourselves, our backgrounds, our positions in the world, and ou
 ### Week 2: Context
 We will begin to talk about “big” and “small” data, and discuss students’ explorations of “small” data in their own local environments. Students will also receive their partner assignments for the term, and we will break out into small groups to begin discussing common interests and potential data sources and projects specific to their local contexts.
 
-**ASSIGNMENT DUE:** Analog data collection exercise
+**ASSIGNMENT DUE:** Analog data collection exercise. [Assignment brief can be found here](/analog-project.md).
 
 <u>**Reading Due:**</u>
 - boyd, d. & Crawford, K. (2012). Critical Questions for Big Data: Provocations for a cultural, technological, and scholarly phenomenon. *Information, Communication & Society*, 15(5), 662-679.  
