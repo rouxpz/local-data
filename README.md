@@ -11,6 +11,9 @@
 
 **Course Discord Channel:** #local-data
 
+**Etherpad for 8AM ET section:** https://board.net/p/local-data-am  
+**Etherpad for 8PM ET section:** https://board.net/p/local-data-pm
+
 ### Description
 This course will approach data collection as a local, situated and contextually-bound process, and ask what it means to examine large-scale social issues from a close, specific perspective. Starting from the observation that data is never collected omnisciently or neutrally, students will explore questions of power, context, and knowledge production through reading, discussion, and practical exercises in data collection and representation using both computational (primarily web-based and JavaScript) and analog methods. Students will be asked to work in teams (at a distance) for the first half of the semester to produce a project design that addresses an issue of common interest. This will require them to engage in collaborative problem solving and collective inquiry, and to take care to emphasize reflexivity and an awareness of their own participation in their creative processes. Potential areas of focus, such as the environment, education or social justice, will be relevant at a global scope but accessible at a local scale. As such, students will be required to identify and leverage salient points of contact at their respective locations as well as integrate local insights and fieldwork into their projects.
 
