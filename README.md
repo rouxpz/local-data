@@ -5,8 +5,8 @@
 **Email:** [roopa.vasudevan@nyu.edu](mailto:roopa.vasudevan@nyu.edu)  
 **Office Hours:** By appointment. Please send me an email with three good times for you, and I will send you a calendar invite and Zoom link.
 
-**Class Resident:** Ellen Nickles
-**Email:** [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)
+**Class Resident:** Ellen Nickles  
+**Email:** [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)  
 **Office Hours:** Mondays, 8am-10am EST
 
 **Course Discord Channel:** #local-data
