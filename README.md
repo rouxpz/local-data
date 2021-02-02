@@ -7,7 +7,7 @@
 
 **Class Resident:** Ellen Nickles  
 **Email:** [ellen.nickles@nyu.edu](mailto:ellen.nickles@nyu.edu)  
-**Office Hours:** Mondays, 8am-10am EST
+**Office Hours:** Mondays, 8am-10am EST [Sign up here](https://calendar.google.com/calendar/selfsched?sstoken=UUJBXzVpUFp3azhlfGRlZmF1bHR8MDk4NDA1OWMzNzEyMThhZjVkMTgzYWI3YmUxMWNmY2M)
 
 **Course Discord Channel:** #local-data
 
