@@ -28,7 +28,7 @@ This week we will discuss ethics surrounding data collection, including what dat
 <u>**Reading Due:**</u>
 - Luka, M. E., & Millette, M. (2018). (Re) framing big data: Activating situated knowledges and a feminist ethics of care in social media research. *Social Media + Society*, 4(2).  
 - Christen, K. (2012). Does information really want to be free? Indigenous knowledge systems and the question of openness. *International Journal of Communication* 6, 2870–2893.  
-- One more reading TBA
+- Association of Internet Researchers (2012). Ethical Decision Making and Internet Research. Retrieved from [http://aoir.org/reports/ethics2.pdf](http://aoir.org/reports/ethics2.pdf) *\**also available as a PDF in the Google Drive folder*
 
 ### Week 4: Collection
 This class will cover the decisions made when setting up a data collection project, including those regarding what to collect and why. We will also discuss the motivations behind the impulse to collect all data possible, regardless of whether or not we can immediately see uses for it. Students will bring in a sample data source for their project, and we will go over processes of formatting it in JSON for use in web-based visualizations.
