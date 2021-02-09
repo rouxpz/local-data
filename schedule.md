@@ -23,7 +23,7 @@ We will begin to talk about “big” and “small” data, and discuss students
 ### Week 3: Care
 This week we will discuss ethics surrounding data collection, including what data it is appropriate to collect for a project, how to share results or outputs, and whether it is appropriate to collect data at all in certain instances. Students will also present their final project proposals for feedback.
 
-**ASSIGNMENT DUE:** Project idea
+**ASSIGNMENT DUE:** Initial idea for final project design (approximately 300-500 words, written collaboratively). [Final project design brief can be found here](/final-project-brief.md).
 
 <u>**Reading Due:**</u>
 - Luka, M. E., & Millette, M. (2018). (Re) framing big data: Activating situated knowledges and a feminist ethics of care in social media research. *Social Media + Society*, 4(2).  
