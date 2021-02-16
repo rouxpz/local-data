@@ -12,9 +12,11 @@ Your final project should consist of a detailed design for a data-driven project
 
 These proposals will be submitted in [the Google Drive folder](https://drive.google.com/drive/folders/1lyy198Frc8NpME4o39WbpE13pHUuELz9?usp=sharing).
 
-**For Tuesday, February 23:** You and your partner will deliver a sample of the data source you are planning on using. Do not “clean” or alter this data in any way.
+**For Tuesday, February 23:** You and your partner will deliver a sample of the data source you are planning on using. ***Do not “clean” or alter this data in any way.***
 
-You will submit this sample to the Google Drive folder, as well as work with it in class, so please make sure that all members of the team are equipped with a copy.
+This data source does not have to be extensive or encompass the full scope of your project design, but it does have to give us some sense of the categories and values you will be using as the foundation of the project.
+
+You will submit this sample to [the Google Drive folder](https://drive.google.com/drive/folders/1Olc9mmGDtbLhJtMejKt1S2tGVIdb1OnV?usp=sharing), as well as work with it in class, so please make sure that all members of the team are equipped with a copy.
 
 **For Tuesday, March 2:** You and your partner will make some initial explorations of the data using JavaScript.
 
