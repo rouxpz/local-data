@@ -40,7 +40,7 @@ This class will cover the decisions made when setting up a data collection proje
 <u>**Reading Due:**</u>  
 - Zuboff, S. (2019). *The age of surveillance capitalism: The fight for a human future at the new frontier of power*. New York, NY: PublicAffairs. (Introduction & Chapter 15)  
 - Sutherland, T. (2017). Making a killing: On race, ritual, and (re)membering in digital culture. *Preservation, Digital Technology & Culture*, 46(1), 32-40.  
-- 1-2 more readings TBD
+- Marwick, A. (2013). *Status update: Celebrity, publicity and branding in the social media age*. New Haven, CT: Yale University Press (Chapter 5).
 
 ### Week 5: Clarity
 We will discuss processes of classification, categorization and analysis, and examine the specific human assumptions that go into making data “legible” for an audience. Students will also take the sample data sources they have collected for their projects and experiment with different ways of classifying and sorting them, and discuss what each approach adds and leaves out.
