@@ -18,7 +18,7 @@ This data source does not have to be extensive or encompass the full scope of yo
 
 You will submit this sample to [the Google Drive folder](https://drive.google.com/drive/folders/1Olc9mmGDtbLhJtMejKt1S2tGVIdb1OnV?usp=sharing), as well as work with it in class, so please make sure that all members of the team are equipped with a copy.
 
-**For Tuesday, March 2:** Using the JSON file developed out of your sample dataset during class, you and your partner will make some basic, initial explorations of the data using JavaScript. I have provided one example of loading and exploring data in d3.js, and one in p5.js. Feel free to use these as starting points, or to start your own explorations from scratch.
+**For Tuesday, March 2:** Using the JSON file developed out of your sample dataset during class, you and your partner will make some basic, initial explorations of the data using JavaScript. I have [provided a very simple example](https://github.com/rouxpz/local-data/tree/main/code%20examples) of loading and mapping data in d3.js and in p5.js. Feel free to use these as starting points, or to start your own explorations from scratch.
 
 You can find tutorials in getting started with exploring data [in d3.js here](https://github.com/d3/d3/wiki/Tutorials), and [in p5.js here](https://p5js.org/examples/advanced-data-load-saved-json.html). Don't stress out too much about this assignment, though—the key word here is *basic*. I'm not interested in how fancy your visualization is; I'm instead interested in seeing the decisions made to classify and categorize, and the types of mappings that make sense to you for your dataset. We'll go over more visualization strategies, and have some time in class for you to add to your visualizations, in class on March 2.
 
