@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Local Data: Loading and Displaying Data Example (D3)</title>
+    <script type="text/javascript" src="js/d3/d3.js"></script>
+  </head>
+  <body>
+    <svg width="1000" height="120">
+      <circle cx="50" cy="60" r="10"></circle>
+      <circle cx="150" cy="60" r="10"></circle>
+      <circle cx="250" cy="60" r="10"></circle>
+    </svg>
+    <p id="dateOfEntry">Hover over each circle to display the date.</p>
+    <p id="journalDescription">Click on each circle to display the journal entry.</p>
+
+    <script type="text/javascript">
+
+      //establish arrays for each of the categories I want to map data to
+      var foods = [];
+      var journals = [];
+      var dates = [];
+
+      //load the data and assign values to my arrays
+      d3.json("data/example-data.json").then(function(data) {
+        var entries = data.data;
+        for (var i = 0; i < entries.length; i++) {
+          dates.push(entries[i].date);
+          journals.push(entries[i].journal);
+          foods.push(entries[i].food.length);
+        }
+        // run the function to draw the circles after the data has been loaded
+        drawCircles();
+      });
+
+
+      //draw circles according to data
+      function drawCircles() {
+        var circle = d3.selectAll("circle"); //selecting all of the circle tags
+        circle.data(foods); //pinning the "foods" array to the circles
+        circle.style("fill", "purple");
+
+        //setting the radius of each circle to correspond to how many items are in the foods array
+        circle.attr("r", function(d) {
+          return d * 5;
+        });
+
+        //displaying the appropriate journal entry by clicking each circle
+        circle.on("click", function(a, d) {
+          var journalIndex = foods.indexOf(d);
+          document.getElementById("journalDescription").innerHTML = journals[journalIndex];
+        });
+
+        //displaying the appropriate date by mousing over each circle
+        circle.on("mouseover", function(a, d) {
+          var dateIndex = foods.indexOf(d);
+          document.getElementById("dateOfEntry").innerHTML = dates[dateIndex];
+        })
+      }
+
+    </script>
+
+  </body>
+</html>
