@@ -50,9 +50,9 @@ We will discuss processes of classification, categorization and analysis, and ex
 **IN-CLASS TECHNICAL DEMO:** Continue visual explorations with d3 and p5.js
 
 <u>**Reading Due:**</u>  
-- Bowker, G. & Star, S.L. (2000). *Sorting things out: Classification and its consequences*. Cambridge, MA: MIT Press. (1 chapter)
+- Bowker, G. & Star, S.L. (2000). *Sorting things out: Classification and its consequences*. Cambridge, MA: MIT Press. (Chapter 6)
 - Steyerl, H. (2016). A sea of data: Apophenia and pattern (mis-)recognition. *e-flux Journal*, 72.  
-- D’Ignazio, C. & Klein, L.F. (2020). *Data feminism*. Cambridge, MA: MIT Press. (1-2 chapters)  
+- D’Ignazio, C. & Klein, L.F. (2020). *Data feminism*. Cambridge, MA: MIT Press. (Chapter 5)  
 - Bivens, R. (2017). The gender binary will not be deprogrammed: Ten years of coding gender on Facebook. *New Media & Society*, 19(6), 880–898.
 
 ### Week 6: Consequences
