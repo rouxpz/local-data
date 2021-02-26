@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Local Data: Loading and Displaying Data Example (D3)</title>
+    <script type="text/javascript" src="js/d3/d3.js"></script>
+    <style type="text/css">
+
+			div.bar {
+				display: inline-block;
+				width: 50px;
+				height: 75px;	/* Gets overriden by D3-assigned height below */
+				margin-right: 2px;
+				background-color: teal;
+			}
+
+		</style>
+  </head>
+  <body>
+    <script type="text/javascript">
+      //adapted from Scott Murray's tutorial: https://alignedleft.com/tutorials/d3/drawing-divs
+      
+      //establish arrays for each of the categories I want to map data to
+      var foods = [];
+      var journals = [];
+      var dates = [];
+
+      //load the data and assign values to my arrays
+      d3.json("data/example-data.json").then(function(data) {
+        var entries = data.data;
+        for (var i = 0; i < entries.length; i++) {
+          dates.push(entries[i].date);
+          journals.push(entries[i].journal);
+          foods.push(entries[i].food.length);
+        }
+        // run the function to draw the circles after the data has been loaded
+        console.log(dates);
+        drawBars();
+      });
+
+      //drawing the bars
+      function drawBars() {
+        d3.select("body").selectAll("div")
+  				.data(foods) //pinning the "foods" array as the dataset
+  				.enter()
+  				.append("div") //adding a new div for each food element
+  				.attr("class", "bar") //appending the "bar" class to the new divs
+  				.style("height", function(d) {
+  					var barHeight = d * 15;
+  					return barHeight + "px";
+  				}) //adjusting the style so the height reflects the number
+          .on("click", function(a, d) {
+            var journalIndex = foods.indexOf(d);
+            document.getElementById("journalDescription").innerHTML = journals[journalIndex];
+          })
+          .on("mouseover", function(a, d){
+            var dateIndex = foods.indexOf(d);
+            document.getElementById("dateOfEntry").innerHTML = dates[dateIndex];
+          })
+      }
+
+    </script>
+    <p id="dateOfEntry">Hover over each bar to display the date.</p>
+    <p id="journalDescription">Click on each bar to display the journal entry.</p>
+    <br>
+  </body>
+</html>

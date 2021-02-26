@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "date": "February 15",
+      "journal": "Today I ate pasta with tomato sauce, cream and Parmesan cheese. I had seltzer to drink.",
+      "food": ["pasta", "tomato sauce", "cheese", "seltzer"]
+    },
+    {
+      "date": "February 16",
+      "journal": "Today I made stir fry with bell peppers, zucchini, onions and carrots. I ate it with brown rice. I had lemonade to drink.",
+      "food": ["bell peppers", "zucchini", "onions", "carrots", "brown rice", "lemonade"]
+    },
+    {
+      "date": "February 17",
+      "journal": "Today I didn't feel so well, so I just had noodle soup and tea.",
+      "food": ["noodle soup", "tea"]
+    }
+  ]
+}
