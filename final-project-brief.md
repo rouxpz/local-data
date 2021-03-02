@@ -48,6 +48,6 @@ This section will detail the process by which you and your partner arrived at th
 
 What have you found in these first steps you have taken? What are your immediate next steps? What, if any, changes will you be making to the project design based on what you have found from your initial explorations?
 
-This document will be submitted to [the Google Drive folder](https://drive.google.com/drive/folders/1a2KI8B9UE9MT1zxdw8bRFoXqPT_AaTxD?usp=sharing). **Proposal designs are due by 5pm on Friday, March 19.**
+This document will be submitted to [the Google Drive folder](https://drive.google.com/drive/folders/1a2KI8B9UE9MT1zxdw8bRFoXqPT_AaTxD?usp=sharing). **Proposal designs are due by 5pm Eastern time on Friday, March 19.**
 
 In addition, each team will prepare a short presentation on their project design for the final day of class (Tuesday, March 16). This presentation should go over each section of the proposal, and discuss the work you have done and next steps you envision. Slides/visuals are not required, but highly encouraged. Each group will have 20 minutes total, allowing for a presentation of ~10 minutes, and 10 minutes of feedback from the group.
