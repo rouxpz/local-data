@@ -26,7 +26,7 @@ Rather than a separate written assignment, please comment your HTML/JS files and
 
 You will submit this assignment to [the Google Drive folder](https://drive.google.com/drive/folders/1eqQ2vdmGsUf6ZsSUF7ipsYlbN5PSE-wo?usp=sharing). Please make sure you are including all elements in your submission so I can run this on my laptop: the HTML file, and any JavaScript files or libraries attached. If you'd prefer to upload your assignment to a domain and send me the link to find it there, that works as well as long as I am able to access all the files you're using in the assignment.
 
-**For Tuesday, March 16:** Your final project design is due. This must be submitted as a single document, containing the following sections:
+**For Friday, March 19:** Your final project design is due. This must be submitted as a single document, containing the following sections:
 
 ##### I. INTRODUCTION
 
@@ -48,4 +48,6 @@ This section will detail the process by which you and your partner arrived at th
 
 What have you found in these first steps you have taken? What are your immediate next steps? What, if any, changes will you be making to the project design based on what you have found from your initial explorations?
 
-This document will be submitted to [the Google Drive folder](https://drive.google.com/drive/folders/1a2KI8B9UE9MT1zxdw8bRFoXqPT_AaTxD?usp=sharing). In addition, each team will prepare a short presentation on their project design for the final day of class. I will provide more details about presentation requirements as the final week draws closer.
+This document will be submitted to [the Google Drive folder](https://drive.google.com/drive/folders/1a2KI8B9UE9MT1zxdw8bRFoXqPT_AaTxD?usp=sharing). **Proposal designs are due by 5pm on Friday, March 19.**
+
+In addition, each team will prepare a short presentation on their project design for the final day of class (Tuesday, March 16). This presentation should go over each section of the proposal, and discuss the work you have done and next steps you envision. Slides/visuals are not required, but highly encouraged. Each group will have 20 minutes total, allowing for a presentation of ~10 minutes, and 10 minutes of feedback from the group.
