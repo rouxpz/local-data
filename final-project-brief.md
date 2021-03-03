@@ -26,25 +26,25 @@ Rather than a separate written assignment, please comment your HTML/JS files and
 
 You will submit this assignment to [the Google Drive folder](https://drive.google.com/drive/folders/1eqQ2vdmGsUf6ZsSUF7ipsYlbN5PSE-wo?usp=sharing). Please make sure you are including all elements in your submission so I can run this on my laptop: the HTML file, and any JavaScript files or libraries attached. If you'd prefer to upload your assignment to a domain and send me the link to find it there, that works as well as long as I am able to access all the files you're using in the assignment.
 
-**For Friday, March 19:** Your final project design is due. This must be submitted as a single document, containing the following sections:
+**For Friday, March 19:** Your final project design is due. This must be submitted as a single document, containing the following sections *(word counts are loose guidelines and will not be counted strictly as long as the section does what it is supposed to)*:
 
-##### I. INTRODUCTION
+##### I. INTRODUCTION (300-500 words)
 
 What is the project you are proposing? What data does it work with, and what is the goal of the analysis?
 
-##### II. CONTEXT
+##### II. CONTEXT (600-800 words)
 
 This is the meat of the project design, and what I will be spending the most time reading. Here you will establish the context for the project, including the context in which the data was collected, and in which you are approaching the work. Each member of the team is required to discuss their own relationship to the project and data collection, and discuss the ways in which this informs the final design for the project.
 
-##### III. PROOF OF CONCEPT
+##### III. PROOF OF CONCEPT (400-600 words)
 
 Documentation of your project in some prototype form. This does not have to be extensive or elaborate, but it *does* have to show the essential principles and aims of your project as functioning, and point to the potential for a more realized form.
 
-##### IV. PROCESS
+##### IV. PROCESS (400-600 words)
 
 This section will detail the process by which you and your partner arrived at the specifics of this design. Here I am interested in trial and error—the things you attempted but failed, and the things you didn't think would work but did. I also would like to see your decision making process outlined—why are you making the choices you are making? What other possibilities are there, and why did you determine that they won't work?
 
-##### V. CONCLUSION & NEXT STEPS
+##### V. CONCLUSION & NEXT STEPS (300-500 words)
 
 What have you found in these first steps you have taken? What are your immediate next steps? What, if any, changes will you be making to the project design based on what you have found from your initial explorations?
 

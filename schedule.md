@@ -59,7 +59,7 @@ We will discuss processes of classification, categorization and analysis, and ex
 This week we will discuss the implications of data collection, and holistically look at the themes we have been discussing during the course. We will think about the difference between intent and impact in creative projects utilizing data, and discuss ways to be more careful and critical in our appraisal of our own work.
 
 <u>**Reading Due:**</u>  
-- Hong, S. (2020). *Technologies of speculation: The limits of knowledge in a data-driven society*. New York, NY: NYU Press (1 chapter)  
+- Hong, S. (2020). *Technologies of speculation: The limits of knowledge in a data-driven society*. New York, NY: NYU Press (Chapter 6)  
 - McGlotten, S. (2016). Black data. In Johnson, E.P. (Ed.), *No tea, no shade: New writings on black queer studies*, pp. 262-286. Durham, NC: Duke University Press.  
 - Monahan, T. (2015). The right to hide? Anti-surveillance camouflage and the aestheticization of resistance. *Communication and Critical/Cultural Studies*, 12(2), 159-178.
 
