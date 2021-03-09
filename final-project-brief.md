@@ -38,7 +38,7 @@ This is the meat of the project design, and what I will be spending the most tim
 
 ##### III. PROOF OF CONCEPT (400-600 words)
 
-Documentation of your project in some prototype form. This does not have to be extensive or elaborate, but it *does* have to show the essential principles and aims of your project as functioning, and point to the potential for a more realized form.
+Documentation of your project in some prototype form. This does not have to be extensive or elaborate, but it *does* have to show the essential principles and aims of your project as functioning, or demonstrate an effort to realize some portion of your ideas. It also has to point to the potential for a more realized form.
 
 ##### IV. PROCESS (400-600 words)
 
